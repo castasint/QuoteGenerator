@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyName>QuoteGenerator</AssemblyName>
+    <RootNamespace>QuoteGenerator</RootNamespace>
+    <Description>This is a random Quote Generator</Description>
+    <Authors>castasstring</Authors>
+    <Company>castasstring</Company>
+    <PackageId>CastAsString.QuoteGenerator</PackageId>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>www.github.com/castasint/quotegenerator</PackageProjectUrl>
+    <RepositoryUrl>www.github.com/castasint/quotegenerator</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
